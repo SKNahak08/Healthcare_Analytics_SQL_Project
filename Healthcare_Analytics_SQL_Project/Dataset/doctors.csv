@@ -1,0 +1,17 @@
+doctor_id,doctor_name,department_id,specialization,experience_years,consultation_fee,join_date
+1,"Dr. Anita Rao",1,"Interventional Cardiologist",15,1200.00,2015-04-01
+2,"Dr. Vikram Shah",1,Cardiologist,9,1000.00,2018-06-15
+3,"Dr. Rohan Mehta",2,"Orthopedic Surgeon",12,900.00,2016-02-10
+4,"Dr. Sneha Iyer",2,"Sports Medicine",6,800.00,2021-01-20
+5,"Dr. Arjun Nair",3,Physician,18,600.00,2012-09-01
+6,"Dr. Kavita Desai",3,Physician,7,500.00,2020-03-12
+7,"Dr. Meera Kulkarni",4,Pediatrician,10,700.00,2017-07-07
+8,"Dr. Sameer Khan",4,Neonatologist,14,900.00,2014-11-25
+9,"Dr. Priya Menon",5,Neurologist,11,1100.00,2016-05-30
+10,"Dr. Rajesh Gupta",5,Neurosurgeon,20,1500.00,2010-01-18
+11,"Dr. Neha Kapoor",6,Gynecologist,13,800.00,2015-08-08
+12,"Dr. Farah Siddiqui",6,Obstetrician,8,750.00,2019-10-02
+13,"Dr. Karthik Reddy",7,Dermatologist,5,600.00,2022-02-14
+14,"Dr. Isha Verma",7,Cosmetologist,4,550.00,2023-01-09
+15,"Dr. Sanjay Patil",8,"Emergency Physician",9,700.00,2018-12-03
+16,"Dr. Lakshmi Pillai",8,"Trauma Specialist",16,1000.00,2013-06-21
